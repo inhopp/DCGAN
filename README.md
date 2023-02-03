@@ -1,4 +1,6 @@
-# GAN
+# DCGAN
+
+Deep convolutional generative adversarial networks
 
 > [Paper_Review](https://inhopp.github.io/paper/Paper15/)
 
